@@ -1,2 +1,2 @@
-uygug
-hello world
+print("uygug")
+print("hello world")
